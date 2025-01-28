@@ -11,8 +11,3 @@ This project focuses on analyzing employee attrition trends using Power BI. The 
 ## Technologies Used
 - Power BI
 - DAX
-
-## Future Enhancements
-- Include predictive analytics to forecast attrition trends.
-- Add advanced filtering options.
-
